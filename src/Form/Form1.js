@@ -27,7 +27,7 @@ function Form1() {
                 onChange = {(event) => setFirstName(event.target.value) }
             />
             <Compponent/>
-            <label htmlFor = "firstName">Last name</label>
+            <label htmlFor = "lastName">Last name</label>
             
             <input
                 name  ='lastName'
